@@ -1,0 +1,16 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: hidden auto;
+	user-select: auto;
+	cursor: pointer;
+	background-color: cyan;
+}
+h1{
+	color: blue;
+}
+p{
+	color: green;
+}
